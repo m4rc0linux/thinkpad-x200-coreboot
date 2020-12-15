@@ -19,5 +19,13 @@ No secondary payloads added
 
 capable to boot any linux, bsd and windows
 
+to flash it
+
+sudo flashrom -p internal -w x200m4rc0.rom -V
+
+or
+
+sudo flashrom -p internal:laptop=force_I_want_a_brick -w x200m4rc0.rom -V
+
 To see how this (or my others built images) works, just have a look into my youtube https://www.youtube.com/user/marcolinoxz
 
