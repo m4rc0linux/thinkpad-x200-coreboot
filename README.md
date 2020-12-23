@@ -1,5 +1,7 @@
 # thinkpad-x200-coreboot
-coreboot rom for thinkpad x200 featuring seabios 
+
+coreboot 4.13 rom for thinkpad x200 featuring seabios v. 1.14.0 https://seabios.org/Releases#SeaBIOS_1.14.0
+commit 5c186c6777c9438ff4681929c9c25c98dee28bef
 
 it has been compiled to use libgfixnit graphics initialization
 
